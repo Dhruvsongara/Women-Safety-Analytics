@@ -1,0 +1,5 @@
+Alert: SOS Gesture Detected
+IP Address: 152.58.35.167
+Location: Ahmedabad, IN (23.0258, 72.5873)
+Time: 2024-09-06 10:39:25.513632
+
