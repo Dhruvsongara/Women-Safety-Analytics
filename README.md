@@ -5,6 +5,10 @@
 
 ---
 
+### Screenshots
+![Women Safety Analytics](./womensafety.png)
+
+
 ## ✅ Features
 - 👤 Face Detection using Haar Cascade (OpenCV)
 - 🧠 Gender Classification using a Caffe model
