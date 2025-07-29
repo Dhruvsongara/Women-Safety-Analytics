@@ -6,7 +6,7 @@
 ---
 
 ### Screenshots
-![Women Safety Analytics](./womensafety.png)
+![Women Safety Analytics](./womensafety.jpg)
 
 
 ## ✅ Features
